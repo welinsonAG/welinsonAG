@@ -29,7 +29,7 @@ E foram usadas essas <b>Linguagens</b>:
 
 ## Connect with me:
 <p>
-<a href="https://www.instagram.com/welinson_g?igsh=cDBkemjsMXkzY3Yw">
+<a href="https://www.instagram.com/welinson__g?utm_source=qr&igsh=cDBkemJsMXkzY3Yw">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/welinsongomes">
