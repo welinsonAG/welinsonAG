@@ -26,4 +26,21 @@ E foram usadas essas <b>Linguagens</b>:
 </div>
 <br>
 <br>
+
+## Connect with me:
+<p>
+<a href="https://www.instagram.com/welinson_g?igsh=cDBkemjsMXkzY3Yw">
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/welinsongomes">
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+<br />
+ </p>
+<br />
+
 [![Welinson GitHub stats](https://github-readme-stats.vercel.app/api?username=WelinsonAG)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
