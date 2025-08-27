@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img align="right" alt="DevClub" height="100" width="100" src="https://rodolfomori.com.br/wp-content/uploads/2022/02/LOGO_1-1024x1024.png">
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/8b97b410-2dd8-4d31-83a3-c58e51fd04ee" alt="DevClub" width="100"/>
+</p>
 
 Eu sou <b>Welinson Gomes,</b> sou um Programador Frolt End, atualmente comesando e criando projeto:
 Simples mais bem feito com o ensinamento do <b>Professor Rodolfo Mori</b>.
@@ -40,7 +42,6 @@ E foram usadas essas <b>Linguagens</b>:
  </p>
 <br />
 
-[![Welinson GitHub stats](https://github-readme-stats.vercel.app/api?username=WelinsonAG)](https://github.com/anuraghazra/github-readme-stats)
+![Welinson GitHub stats](https://github-readme-stats.vercel.app/api?username=WelinsonAG&show_icons=true&theme=radical)  ![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelinsonAG&show_icons=true&theme=tokyonight)  
+
 <br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
