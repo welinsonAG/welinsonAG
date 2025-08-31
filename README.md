@@ -88,7 +88,7 @@ Atualmente, estou estudando com o *Professor Rodolfo Mori, me especializando em 
 <!-- Portfolio -->
 ## Portfolio:
 - [easy-shopping](https://welinsonag.github.io/easy-shopping/)
-- [We-duas-Telas](https://github.com/welinsonAG/We-duas-Telas)
+- [Joken_Pô](https://welinsonag.github.io/Joken-p-/)
 - [Netflixx]( https://welinsonag.github.io/Netflixx/)
 - [CONVERT-MONEY](https://welinsonag.github.io/CONVERT-MONEY/)
 - [DevSorteio_Sorte](https://welinsonag.github.io/DevSorteio_Sorte/)
@@ -176,19 +176,20 @@ Atualmente, estou estudando com o *Professor Rodolfo Mori, me especializando em 
     alt="GitHub Stats" 
     height="200" 
     width="430"
-    src="https://github-readme-stats.vercel.app/api?username=welinsonAG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+    src="https://github-readme-stats.vercel.app/api?username=welinsonAG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+   
   <img 
     align="right" 
     alt="Top Langs" 
     height="200"
      width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=welinsonAG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /> 
+  
+  ----
 </p>
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center"src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 
 </p>
