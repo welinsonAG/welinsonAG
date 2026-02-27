@@ -1,33 +1,42 @@
-
-
 # 👋 Hi, I'm Welinson
 
 💻 Full Stack Developer  
-🌎 Open to international opportunities  
-🚀 Building scalable and modern web applications  
+🌎 Open to Remote & International Opportunities  
+🚀 Building scalable, performant and modern web applications  
 
 ---
 
 ## 🇧🇷 Sobre mim
 
-Sou Desenvolvedor Full Stack com foco em aplicações web modernas, APIs robustas e interfaces performáticas.  
-Tenho experiência prática com React, Node.js e consumo/criação de APIs REST.
+Sou Desenvolvedor Full Stack com foco em aplicações web modernas, APIs robustas e arquitetura escalável.
 
-Busco sempre:
+Tenho experiência prática no desenvolvimento de interfaces performáticas com React e na construção de APIs REST com Node.js e Express, aplicando boas práticas de organização, estruturação e versionamento de código.
 
-✔ Código limpo e organizado  
-✔ Boas práticas (Clean Code)  
-✔ Arquitetura escalável  
-✔ Performance e UX  
+Busco constantemente evolução técnica, qualidade de código e soluções que gerem impacto real.
 
 ---
 
 ## 🇺🇸 About Me
 
-I'm a Full Stack Developer focused on building scalable web applications and robust REST APIs.  
-I value clean code, performance, and maintainable architecture.
+I'm a Full Stack Developer focused on scalable web applications and well-structured backend systems.
 
-Currently improving my skills in backend architecture and scalable systems.
+I have hands-on experience building responsive interfaces with React and RESTful APIs using Node.js and Express.
+
+I value:
+
+✔ Clean and maintainable code  
+✔ Scalable architecture  
+✔ Performance-driven solutions  
+✔ Continuous improvement  
+
+---
+
+## 💼 Open to Work
+
+✔ Full Stack Developer (React & Node.js)  
+✔ Remote Positions  
+✔ International Opportunities  
+✔ REST APIs | PostgreSQL | Clean Architecture  
 
 ---
 
@@ -52,7 +61,7 @@ Currently improving my skills in backend architecture and scalable systems.
 ### 🧰 Tools
 - Git & GitHub
 - Vercel
-- Beekeeper
+- Beekeeper Studio
 - Insomnia / HTTPie
 
 ---
@@ -62,15 +71,15 @@ Currently improving my skills in backend architecture and scalable systems.
 🌐 **Portfolio:**  
 👉 https://portfolio-blush-one-35.vercel.app  
 
-📂 More projects available in my repositories.
+More projects available in my repositories below.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Welinson GitHub Stats](https://github-readme-stats.vercel.app/api?username=welinsonAG&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=welinsonAG&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welinsonAG&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=welinsonAG&theme=tokyonight)
 
 ---
 
@@ -82,4 +91,4 @@ Currently improving my skills in backend architecture and scalable systems.
 
 ---
 
-⭐ Always open to new opportunities and challenges.
+⭐ Always open to new challenges and opportunities.
