@@ -1,74 +1,85 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=0C05F7&background=000316&center=true&width=435&lines=+%23+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Welinson+Gomes+Alves+)](https://git.io/typing-svg)
+
+
+# 👋 Hi, I'm Welinson
+
+💻 Full Stack Developer  
+🌎 Open to international opportunities  
+🚀 Building scalable and modern web applications  
 
 ---
 
-### 🚀 Desenvolvedor Front-End  
+## 🇧🇷 Sobre mim
 
-Sou **Welinson Gomes**, apaixonado por tecnologia e desenvolvimento web.  
-Atualmente estudo com o **Professor Rodolfo Mori**, me especializando em **Front-End** e criando projetos práticos para fortalecer minhas habilidades.  
+Sou Desenvolvedor Full Stack com foco em aplicações web modernas, APIs robustas e interfaces performáticas.  
+Tenho experiência prática com React, Node.js e consumo/criação de APIs REST.
 
----
+Busco sempre:
 
-### 🌐 Redes Sociais e Contato
-<p align="center">
-  <a href="https://www.linkedin.com/in/welinsongomes-alves" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/welinsonAG" target="_blank">
-    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+✔ Código limpo e organizado  
+✔ Boas práticas (Clean Code)  
+✔ Arquitetura escalável  
+✔ Performance e UX  
 
 ---
 
-### 🛠️ Tecnologias que já utilizo
-<p align="center">
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Tailwind" title="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</p>
+## 🇺🇸 About Me
+
+I'm a Full Stack Developer focused on building scalable web applications and robust REST APIs.  
+I value clean code, performance, and maintainable architecture.
+
+Currently improving my skills in backend architecture and scalable systems.
 
 ---
 
-### 🔥 Skills e Ferramentas
-<p align="center">
-  <img alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-</p>
+## 🛠 Tech Stack
+
+### 💻 Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+
+### ⚙ Backend
+- Node.js
+- Express
+- REST APIs
+- Sequelize
+
+### 🗄 Database
+- PostgreSQL
+- MySQL
+
+### 🧰 Tools
+- Git & GitHub
+- Vercel
+- Beekeeper
+- Insomnia / HTTPie
 
 ---
 
-### 📂 Portfólio
-- [Easy Shopping](https://welinsonag.github.io/easy-shopping/)
-- [Joken Pô](https://welinsonag.github.io/Joken-p-/)
-- [Netflixx](https://welinsonag.github.io/Netflixx/)
-- [Convert Money](https://welinsonag.github.io/CONVERT-MONEY/)
-- [Dev Sorteio](https://welinsonag.github.io/DevSorteio_Sorte/)
+## 🚀 Featured Project
+
+🌐 **Portfolio:**  
+👉 https://portfolio-blush-one-35.vercel.app  
+
+📂 More projects available in my repositories.
 
 ---
 
-### 📚 Tecnologias que estou estudando
-<p align="center">
-  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-</p>
+## 📊 GitHub Stats
+
+![Welinson GitHub Stats](https://github-readme-stats.vercel.app/api?username=welinsonAG&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welinsonAG&layout=compact&theme=radical)
 
 ---
 
-### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welinsonAG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welinsonAG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</p>
+## 📫 Contact
+
+📧 Email: acerpagsguro@gmail.com  
+📱 Phone: +55 17 98159-7854  
+🌎 Portfolio: https://portfolio-blush-one-35.vercel.app  
 
 ---
 
-<p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="GIF"/>
-</p>
+⭐ Always open to new opportunities and challenges.
